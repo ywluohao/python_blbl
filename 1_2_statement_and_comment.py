@@ -1,4 +1,4 @@
-# 1.2 Statement, Identation, and Comments
+# 1.2 Statement, Indentation, and Comments
 
 # Statement
 # assignment statement
@@ -39,7 +39,7 @@ a3 = 3
 a4 = 4
 
 
-# identations
+# indentations
 
 for i in range(1, 11):
     print(i)
