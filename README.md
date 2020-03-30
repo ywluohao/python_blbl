@@ -19,13 +19,13 @@
 - 2.9 module, package, PIP
 
 # 3. Data Types
-3.1 numbers
-3.2 list
-3.3 tuple
-3.4 string
-3.5 string format
-3.6 set
-3.7 dictionary
+- 3.1 numbers
+- 3.2 list
+- 3.3 tuple
+- 3.4 string
+- 3.5 string format
+- 3.6 set
+- 3.7 dictionary
 
 # 4. More Data Types
 (chapter 4 is advanced)
