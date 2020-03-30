@@ -1,6 +1,6 @@
 # 1. Introduction
-1.1 Keyword, Identifier
-1.2 Statement, Indentation, Comments
+- 1.1 Keyword, Identifier
+- 1.2 Statement, Indentation, Comments
 1.3 Variables, Literals
 1.4 Data Type
 1.5 Type Conversion
