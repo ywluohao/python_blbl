@@ -67,12 +67,12 @@
 
 ## 6. More Data Types
 (chapter 4 is advanced)
-- 4.1 collections module
-- 4.2 datetime
-- 4.3 JSON
-- 4.4 Python JSON
-- 4.5 RegEx
-- 4.6 Python RegEx
+- 6.1 collections module
+- 6.2 datetime
+- 6.3 JSON
+- 6.4 Python JSON
+- 6.5 RegEx
+- 6.6 Python RegEx
 
 ## 7. Python Standard Library
 
