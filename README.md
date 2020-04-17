@@ -65,7 +65,7 @@
 
 # Python 3
 
-# 6. More Data Types
+## 6. More Data Types
 (chapter 4 is advanced)
 - 4.1 collections module
 - 4.2 datetime
@@ -74,10 +74,10 @@
 - 4.5 RegEx
 - 4.6 Python RegEx
 
-# 7. Python Standard Library
+## 7. Python Standard Library
 
 
-# 8. Python Tricks
+## 8. Python Tricks
 
 
 # Other Topics
