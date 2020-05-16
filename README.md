@@ -25,8 +25,11 @@
 - 3.3 tuple
 - 3.4 string
 - 3.5 string format
-- 3.6 set
-- 3.7 dictionary
+- 3.6 hashable, mutable
+- 3.7 set
+- 3.8 dictionary
+- 3.9 other topics
+(list aliasing, * and **)
 
 ## 3s. Review of Chapter 1 - 3
 (PCEP Exam Review)
