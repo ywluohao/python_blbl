@@ -59,7 +59,7 @@
 - 5.7 Closure, Decorator
 - 5.8 Python Property
 
-## 5e. Review of Chapter 1 - 3
+## 5e. Review of Chapter 1 - 5
 (PCAP Exam Review)
 - Exam block #1: Control and Evaluations
 - Exam Block #2: Data Aggregates
